@@ -21,12 +21,59 @@ Grading
 
 Your grade in ESD.33 will be determined based on your performance on homework, exams, and class participation as described in the table below:
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Homework  {{< br >}}(6 Assignments at 5% each  {{< br >}}2 Assignments at 10% each) | 50% |
-| Examination 1 | 10% |
-| Examination 2 | 30% |
-| Class Participation | 10% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homework  
+(6 Assignments at 5% each  
+2 Assignments at 10% each)
+{{< tdclose >}}
+{{< tdopen >}}
+50%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Examination 1
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Examination 2
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class Participation
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Course Meeting Times
 --------------------
@@ -54,14 +101,75 @@ After taking this subject (ESD.33 — Systems Engineering) students should be a
 Bloom's Taxonomy of Educational Objectives
 ------------------------------------------
 
-| EDUCATIONAL OBJECTIVES | ASSOCIATED ACTION VERBS |
-| --- | --- |
-| 6\. Evaluation | Judge, Critique, Justify |
-| 5\. Synthesis | Design, Iinvent, Propose |
-| 4\. Analysis | Predict, Model, Derive |
-| 3\. Application | Calculate, Solve |
-| 2\. Comprehension | Explain, Paraphrase |
-| 1\. Knowledge | List, Recite 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+EDUCATIONAL OBJECTIVES
+{{< thclose >}}
+{{< thopen >}}
+ASSOCIATED ACTION VERBS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6\. Evaluation
+{{< tdclose >}}
+{{< tdopen >}}
+Judge, Critique, Justify
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5\. Synthesis
+{{< tdclose >}}
+{{< tdopen >}}
+Design, Iinvent, Propose
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4\. Analysis
+{{< tdclose >}}
+{{< tdopen >}}
+Predict, Model, Derive
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3\. Application
+{{< tdclose >}}
+{{< tdopen >}}
+Calculate, Solve
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2\. Comprehension
+{{< tdclose >}}
+{{< tdopen >}}
+Explain, Paraphrase
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1\. Knowledge
+{{< tdclose >}}
+{{< tdopen >}}
+List, Recite
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Office Hours and Assistance
 ---------------------------
