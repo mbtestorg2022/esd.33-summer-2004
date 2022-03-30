@@ -11,6 +11,7 @@ description: 'Team project. This assignment is primarily aligned with the third 
   engineering using the fundamental concepts from disciplines such as of probability..."'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/esd-33-systems-engineering-summer-2004/bcba2be28d04bb3523a322c4ff235774_asgn3_qfd.pdf
 file_type: application/pdf
+parent_uid: 66d2ff32-70e2-68f2-0470-9fbea9d02b57
 resourcetype: Document
 title: asgn3_qfd.pdf
 uid: bcba2be2-8d04-bb35-23a3-22c4ff235774
